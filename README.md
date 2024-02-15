@@ -2,7 +2,7 @@
 
  Participando do bootcamp da Dio e realizando um resumo do módulo
 
-<img src="./Passo-a-passo/Dio.png" alt="Dio">
+<img src="./Passo-a-passo/Dio.png" alt="Dio" width="300" height="200">
 
 Iniciamos seguindo a documentação da Microsoft conforme link abaixo:
 
